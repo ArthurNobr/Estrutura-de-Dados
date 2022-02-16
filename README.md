@@ -1,2 +1,2 @@
 # Estrutura de Dados
- Exercícios da Disciplina de Estrutura de Dados
+ Exercícios Feitos na Disciplina de Estrutura de Dados da UNCISAL.
